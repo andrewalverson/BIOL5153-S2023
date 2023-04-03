@@ -2,14 +2,16 @@
 
 #### Python scripts 
 
-	- `write_pinnacle_slurm.py`
+- `write_pinnacle_slurm.py`: printing, variables, argparse()
 
-	- `calc-fibonacci.py`
+- `calc-fibonacci.py`: argparse()
 		
 
 #### Jupyter notebooks
  
-	- `reading-writing.ipynb`
+- `reading-writing.ipynb`: reading and writing files
 	
-	- `working-with-lists-template.ipynb`
-	
+- `working-with-lists-template.ipynb`: blank template for lists and loops
+
+- `working-with-lists-template.ipynb`: filled in lists and loops demo
+
