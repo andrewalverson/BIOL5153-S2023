@@ -1,0 +1,6 @@
+1 apple OH
+2 pear OH
+3 pear IL
+4 apple FL
+5 pear FL
+6 apple MI
