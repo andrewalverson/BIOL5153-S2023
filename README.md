@@ -8,10 +8,14 @@
 		
 
 #### Jupyter notebooks
- 
-- `reading-writing.ipynb`: reading and writing files
-	
+
+- `jupyter-templates`: empty Jupyter notebooks to fill in during class
+
 - `working-with-lists-template.ipynb`: blank template for lists and loops
 
-- `working-with-lists-template.ipynb`: filled in lists and loops demo
+- `jupyter-completed-in-class`: Jupyter notebooks after filling in code during class
+
+- `reading-writing.ipynb`: reading and writing files
+
+- `working-with-lists-template-completed.ipynb`: filled in lists and loops demo
 
