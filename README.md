@@ -9,11 +9,11 @@
 
 #### Jupyter notebooks
 
-- `jupyter-templates`: empty Jupyter notebooks to fill in during class
+##### `jupyter-templates`: empty Jupyter notebooks to fill in during class
 
 - `working-with-lists-template.ipynb`: blank template for lists and loops
 
-- `jupyter-completed-in-class`: Jupyter notebooks after filling in code during class
+##### `jupyter-completed-in-class`: Jupyter notebooks after filling in code during class
 
 - `reading-writing.ipynb`: reading and writing files
 
