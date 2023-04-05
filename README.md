@@ -2,6 +2,8 @@
 
 #### Python scripts 
 
+##### - `python-scripts`: stand-alone CLI Python scripts
+
 - `write_pinnacle_slurm.py`: printing, variables, argparse()
 
 - `calc-fibonacci.py`: argparse()
@@ -18,4 +20,11 @@
 - `reading-writing.ipynb`: reading and writing files
 
 - `working-with-lists-template-completed.ipynb`: filled in lists and loops demo
+
+#### other
+
+- `data`: data files, mainly for IO demo
+
+
+
 
