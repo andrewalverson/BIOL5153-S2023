@@ -2,7 +2,7 @@
 
 #### Python scripts 
 
-##### - `python-scripts`: stand-alone CLI Python scripts
+##### `python-scripts`: stand-alone CLI Python scripts
 
 - `write_pinnacle_slurm.py`: printing, variables, argparse()
 
