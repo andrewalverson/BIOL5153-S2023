@@ -21,7 +21,7 @@
 
 - `working-with-lists-template-completed.ipynb`: filled in lists and loops demo
 
-#### other
+#### Other
 
 - `data`: data files, mainly for IO demo
 
