@@ -3,6 +3,7 @@
 # import modules
 import argparse
 import csv
+from Bio import SeqIO
 
 
 # create an ArgumentParser object
