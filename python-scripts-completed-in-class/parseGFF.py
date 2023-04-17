@@ -17,6 +17,9 @@ parser.add_argument("fasta", help="Name of the FASTA file to parse", type=str)
 # access argument values via `args` variable
 args = parser.parse_args()
 
+# read in the FASTA file
+genome = SeqIO.read(args.fasta, "fasta")
+
 # open the GFF file
 with open(args.gff) as gff_file:
 
@@ -38,7 +41,7 @@ with open(args.gff) as gff_file:
 			# columns      = line.split('\t')
 
 			# give variable names to the columns
-			organsim     = line[0]
+			organism     = line[0]
 			source       = line[1]
 			feature_type = line[2]
 			start        = int(line[3])
@@ -51,9 +54,16 @@ with open(args.gff) as gff_file:
 			strand       = line[6]
 			attributes   = line[8]
 
+			# extract the feature
+			feature_seq = genome.seq[start-1:end]
 
-			new_line = "\t".join(line)
-			print(new_line)
+			# print FASTA output for this feature
+			print(">" + organism, feature_type, attributes)
+			print(feature_seq)
+
+			# print(len(feature_seq) - ((end-start)+1))
+			# new_line = "\t".join(line)
+			# print(new_line)
 
 
 
