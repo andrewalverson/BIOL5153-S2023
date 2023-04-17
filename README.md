@@ -7,6 +7,8 @@
 - `write_pinnacle_slurm.py`: printing, variables, argparse()
 
 - `calc-fibonacci.py`: argparse()
+
+- `parseGff.py`: parsing GFF files
 		
 
 #### Jupyter notebooks
@@ -20,6 +22,7 @@
 - `reading-writing.ipynb`: reading and writing files
 
 - `working-with-lists-template-completed.ipynb`: filled in lists and loops demo
+
 
 #### Other
 
