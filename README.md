@@ -30,6 +30,3 @@
 
 - `histories`: Unix commands used in class
 
-
-
-
