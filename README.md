@@ -24,6 +24,9 @@
 - `working-with-lists-template-completed.ipynb`: filled in lists and loops demo
 
 
+#### `histories`: Unix commands used in class
+
+
 #### Other
 
 - `data`: data files, mainly for IO demo
