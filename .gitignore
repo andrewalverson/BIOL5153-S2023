@@ -5,3 +5,5 @@ python-scripts-private/*
 .DS_Store
 python-scripts-completed-in-class/covid.fasta
 python-scripts-completed-in-class/covid.gff3
+notes/
+
