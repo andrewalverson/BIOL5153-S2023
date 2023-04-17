@@ -1,0 +1,52 @@
+31067  2023-02-15 cd ortholog_sets_for_species_trees/
+31068  2023-02-15 ls -al
+31069  2023-02-15 cd thal_raphid_tax0.6_alignments
+31070  2023-02-15 ls -al
+31071  2023-02-15 d *.fa | wc -l
+31072  2023-02-15 for foo in *.fa;do echo $i;done
+31073  2023-02-15 for foo in *.fa;do echo $foo;done
+31074  2023-02-15 for foo in *.fa;do echo my_script.py $foo;done
+31075  2023-02-15 for foo in *.fa;do echo my_script.py $foo;done > run_this.sh
+31076  2023-02-15 l run_this.sh 
+31077  2023-02-15 split -l 20 run_this.sh 
+31078  2023-02-15 ls -al
+31079  2023-02-15 rm run_this.sh x*
+31080  2023-02-15 ls -al
+31081  2023-02-15 which pwd
+31082  2023-02-15 which rihanna
+31083  2023-02-15 echo $PATH
+31084  2023-02-15 CD
+31085  2023-02-15 cd
+31086  2023-02-15 ls -al
+31087  2023-02-15 exit
+31088  2023-02-15 ls -al
+31089  2023-02-15 exit
+31090  2023-02-15 cd Desktop/example_files
+31091  2023-02-15 ls -al
+31092  2023-02-15 cat bash_profile.txt 
+31093  2023-02-15 cat ~/.bash_profile bash_profile.txt 
+31094  2023-02-15 ls -al
+31095  2023-02-15 cd
+31096  2023-02-15 ls -al
+31097  2023-02-15 pwd
+31098  2023-02-15 mkdir local
+31099  2023-02-15 mkdir local/scripts
+31100  2023-02-15 cd local/scripts/
+31101  2023-02-15 ls -al
+31102  2023-02-15 pwd
+31103  2023-02-15 nano ~/.bash_profile
+31104  2023-02-15 nano ~/.bashrc
+31105  2023-02-15 cd 
+31106  2023-02-15 cat .alias 
+31107  2023-02-15 weather
+31108  2023-02-15 less -S .bashrc 
+31109  2023-02-15 cat .alias 
+31110  2023-02-15 ls -al
+31111  2023-02-15 less .bashrc
+31112  2023-02-15 ls -al
+31113  2023-02-15 cd /tmp
+31114  2023-02-15 ls -al
+31115  2023-02-15 touch .alias
+31116  2023-02-15 exit
+31117  2023-02-15 echo $SHELL
+31118  2023-02-15 history | grep '2023-02-15' > ~/Drive/teaching/BIOL5153_PROGRAMMING/2023S/histories/2023-02-15.txt 

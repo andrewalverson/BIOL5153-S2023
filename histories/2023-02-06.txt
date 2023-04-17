@@ -1,0 +1,151 @@
+30038  2023-02-06 exit
+30277  2023-02-06 ls -al
+30278  2023-02-06 cd .
+30279  2023-02-06 cp ../example_files/letters.txt .
+30280  2023-02-06 ls -al
+30281  2023-02-06 mkdir test
+30282  2023-02-06 cp watermelon.fsa  watermelon.gbf test/
+30283  2023-02-06 cd test/
+30284  2023-02-06 ls -al
+30285  2023-02-06 mv watermelon.fsa  watermelon.gbf 
+30286  2023-02-06 ls -al
+30287  2023-02-06 l watermelon.gbf 
+30288  2023-02-06 touch test.txt
+30289  2023-02-06 ls -al
+30290  2023-02-06 cp watermelon.gbf test.txt 
+30291  2023-02-06 ls -al
+30292  2023-02-06 nano test.txt 
+30293  2023-02-06 ls -al
+30294  2023-02-06 cp watermelon.gbf test.txt 
+30295  2023-02-06 ls -al
+30296  2023-02-06 mkdir cowgirl in the sand
+30297  2023-02-06 ls -al
+30298  2023-02-06 mkdir feb
+30299  2023-02-06 ls -al
+30300  2023-02-06 mv test.txt feb/
+30301  2023-02-06 ls -al
+30302  2023-02-06 mv watermelon.gbf the
+30303  2023-02-06 ls -al
+30304  2023-02-06 rmdir cowgirl/
+30305  2023-02-06 rmdir feb/
+30306  2023-02-06 touch 1.txt andy.fas lisa.tmp
+30307  2023-02-06 ls -al
+30308  2023-02-06 rm 1.txt andy.fas 
+30309  2023-02-06 ls -al
+30310  2023-02-06 rm ~/Downloads/c
+30311  2023-02-06 ls -al
+30312  2023-02-06 rm ~/Downloads/1231703_Resumen_Abstract.pdf
+30313  2023-02-06 d feb/
+30314  2023-02-06 ls -al
+30315  2023-02-06 mv lisa.tmp feb/
+30316  2023-02-06 ls -al
+30317  2023-02-06 mv in/ feb/
+30318  2023-02-06 ls -al
+30319  2023-02-06 mv sand/ feb/
+30320  2023-02-06 mv the/ feb/
+30321  2023-02-06 ls -al
+30322  2023-02-06 d feb/
+30323  2023-02-06 ls -al
+30324  2023-02-06 rm feb/
+30325  2023-02-06 rm -r feb/
+30326  2023-02-06 ls -al
+30327  2023-02-06 up
+30328  2023-02-06 ls -al
+30329  2023-02-06 cp watermelon* test/
+30330  2023-02-06 ls -al test/
+30331  2023-02-06 ls -al
+30332  2023-02-06 rm -r test/
+30333  2023-02-06 ls -al
+30334  2023-02-06 mkdir test
+30335  2023-02-06 cp watermelon* test/
+30336  2023-02-06 rm -r -i test/
+30337  2023-02-06 rm -ri test/
+30338  2023-02-06 ls -al
+30339  2023-02-06 d test/
+30340  2023-02-06 ls -al
+30341  2023-02-06 up
+30342  2023-02-06 ls -al
+30343  2023-02-06 cp watermelon_files test
+30344  2023-02-06 cp -r watermelon_files test
+30345  2023-02-06 ls -al
+30346  2023-02-06 cd test/
+30347  2023-02-06 ls -al
+30348  2023-02-06 rm *
+30349  2023-02-06 up
+30350  2023-02-06 ls -al
+30351  2023-02-06 rm -r test/
+30352  2023-02-06 ls -al
+30353  2023-02-06 cd watermelon_files
+30354  2023-02-06 ls -al
+30355  2023-02-06 d aa/
+30356  2023-02-06 ls -al
+30357  2023-02-06 d nt/
+30358  2023-02-06 edit aa/nad1.fasta 
+30359  2023-02-06 open .
+30360  2023-02-06 cd aa
+30361  2023-02-06 ls -al
+30362  2023-02-06 cat nad1.fasta 
+30363  2023-02-06 cat nad9.fasta 
+30364  2023-02-06 ls -al nad*
+30365  2023-02-06 cat nad*
+30366  2023-02-06 cat nad* > z.txt
+30367  2023-02-06 ls -al
+30368  2023-02-06 cat z.txt 
+30369  2023-02-06 cat nad* > ~/Desktop/nad_genes.txt
+30370  2023-02-06 cd ../c
+30371  2023-02-06 cd ../
+30372  2023-02-06 ls -al
+30373  2023-02-06 cd nt/
+30374  2023-02-06 ls -al
+30375  2023-02-06 d nad*
+30376  2023-02-06 cat nad* > ~/Desktop/nad_genes.txt
+30377  2023-02-06 ls -al
+30378  2023-02-06 up
+30379  2023-02-06 ls -al
+30380  2023-02-06 cat aa/nad*
+30381  2023-02-06 cat aa/nad* > ~/Desktop/nad_genes.txt 
+30382  2023-02-06 cat nt/nad* >> ~/Desktop/nad_genes.txt 
+30383  2023-02-06 cat aa/nad* nt/nad* 
+30384  2023-02-06 ls -al
+30385  2023-02-06 cat aa/nad* nt/andy.* nt/nad* 
+30386  2023-02-06 cat aa/nad* nt/andy.* nt/nad* > ~/Desktop/nad_genes.txt 
+30387  2023-02-06 cat aa/nad* nt/andy.* nt/nad* 
+30388  2023-02-06 cat aa/nad* nt/andy.* nt/nad* > ~/Desktop/nad_genes.txt 2>cat.err
+30389  2023-02-06 less -S cat.err 
+30390  2023-02-06 cd
+30391  2023-02-06 cd Desktop/
+30392  2023-02-06 ls -al
+30393  2023-02-06 edit nad_genes.txt 
+30394  2023-02-06 cd watermelon_files/nt
+30395  2023-02-06 ls -al
+30396  2023-02-06 edit nad7.fasta nad9.fasta 
+30397  2023-02-06 cd ../aa/
+30398  2023-02-06 edit nad7.fasta nad9.fasta 
+30399  2023-02-06 cd ../nt/
+30400  2023-02-06 edit nad7.fasta nad9.fasta 
+30401  2023-02-06 cat nad7.fasta 
+30402  2023-02-06 edit nad1.fasta 
+30403  2023-02-06 cat nad1.fasta 
+30404  2023-02-06 ls -al
+30405  2023-02-06 up
+30406  2023-02-06 ls -al
+30407  2023-02-06 cd mt_genomes/
+30408  2023-02-06 ls -al
+30409  2023-02-06 exit
+30410  2023-02-06 cd Desktop/
+30411  2023-02-06 ls -al
+30412  2023-02-06 cat nad_genes.txt 
+30413  2023-02-06 less -S nad_genes.txt 
+30414  2023-02-06 exit
+30415  2023-02-06 cd Drive/projects/
+30416  2023-02-06 ls -al
+30417  2023-02-06 cd lessner_nifB/
+30418  2023-02-06 ls -al
+30419  2023-02-06 cd Species_Tree/
+30420  2023-02-06 ls -al
+30421  2023-02-06 exit
+30422  2023-02-06 pin
+30423  2023-02-06 exit
+30424  2023-02-06 pin
+30425  2023-02-06 exit
+30432  2023-02-08 history | grep '2023-02-06' > ~/Drive/teaching/BIOL5153_PROGRAMMING/2023S/histories/2023-02-06.txt 

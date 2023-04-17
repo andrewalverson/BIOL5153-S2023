@@ -1,0 +1,81 @@
+29715  2023-01-30 cd
+29716  2023-01-30 cd Desktop/
+29717  2023-01-30 ls -al
+29718  2023-01-30 cd watermelon_files
+29719  2023-01-30 ls -al
+29720  2023-01-30 cd aa/
+29721  2023-01-30 ls -al
+29722  2023-01-30 ls -l atp*
+29723  2023-01-30 ls -al
+29724  2023-01-30 ls -l atp*
+29725  2023-01-30 ls -lh atp*
+29726  2023-01-30 ls -lh
+29727  2023-01-30 cd ..
+29728  2023-01-30 ls -al
+29729  2023-01-30 cd watermelon_files
+29730  2023-01-30 ls -al
+29731  2023-01-30 cd aa
+29732  2023-01-30 ls -al
+29733  2023-01-30 ls rp*
+29734  2023-01-30 ls rp*.fasta
+29735  2023-01-30 cd ..
+29736  2023-01-30 ls -al
+29737  2023-01-30 cd mt_genomes/
+29738  2023-01-30 ls *u*
+29739  2023-01-30 ls -al
+29740  2023-01-30 ls -alh
+29741  2023-01-30 cd
+29742  2023-01-30 cd Desktop/
+29743  2023-01-30 ls -al
+29744  2023-01-30 cd watermelon_files
+29745  2023-01-30 ls -al
+29746  2023-01-30 up
+29747  2023-01-30 ls -al
+29748  2023-01-30 cd example_files
+29749  2023-01-30 ls -al
+29750  2023-01-30 cd ../watermelon_files/
+29751  2023-01-30 ls -al
+29752  2023-01-30 head watermelon.g
+29753  2023-01-30 head watermelon.gff
+29754  2023-01-30 less watermelon.gff
+29755  2023-01-30 ls -al
+29756  2023-01-30 head watermelon.gff
+29757  2023-01-30 tail watermelon.gff
+29758  2023-01-30 ls -al
+29759  2023-01-30 cd ../example_files/
+29760  2023-01-30 ls -al
+29761  2023-01-30 cd ../watermelon_files/
+29762  2023-01-30 ls -al
+29763  2023-01-30 head -n 1 watermelon.gff
+29764  2023-01-30 head -n 2 watermelon.gff
+29765  2023-01-30 head -n 40 watermelon.gff
+29766  2023-01-30 ls -al
+29767  2023-01-30 tail -n 1 watermelon.gff
+29768  2023-01-30 less watermelon.gff
+29769  2023-01-30 less -S watermelon.gff 
+29770  2023-01-30 less -SN watermelon.gff 
+29771  2023-01-30 less -SiN watermelon.gff 
+29772  2023-01-30 man less
+29773  2023-01-30 man pwd
+29774  2023-01-30 man ls
+29775  2023-01-30 nano
+29776  2023-01-30 ls -al
+29777  2023-01-30 cat myDiary.txt 
+29778  2023-01-30 nano myDiary.txt 
+29779  2023-01-30 cat myDiary.txt 
+29780  2023-01-30 less myDiary.txt 
+29781  2023-01-30 edit myDiary.txt 
+29782  2023-01-30 cat myDiary.txt 
+29783  2023-01-30 ls -al
+29784  2023-01-30 less -S watermelon.gff
+29785  2023-01-30 open watermelon.gff.docx 
+29786  2023-01-30 less -S watermelon.gff.docx 
+29787  2023-01-30 less -S watermelon.gff
+29788  2023-01-30 less -SN watermelon.gff
+29789  2023-01-30 ls -al
+29790  2023-01-30 less -S watermelon.mac.gff
+29791  2023-01-30 less -SN watermelon.mac.gff
+29792  2023-01-30 edit watermelon.mac.gff 
+29793  2023-01-30 bbedit watermelon.mac.gff 
+29794  2023-01-30 history
+29795  2023-01-30 history | grep '2023-01-30' > ~/Drive/teaching/BIOL5153_PROGRAMMING/2023S/histories/2023-01-30.txt 

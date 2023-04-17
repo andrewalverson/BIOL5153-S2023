@@ -1,0 +1,156 @@
+30873  2023-02-13 cd Desktop/watermelon
+30874  2023-02-13 cd Desktop/watermelon_files
+30875  2023-02-13 ls -al
+30876  2023-02-13 cut -f 3 watermelon.gff
+30877  2023-02-13 cut -f 3 watermelon.gff | sort | uniq -c
+30878  2023-02-13 ls -al
+30879  2023-02-13 cat watermelon.gff
+30880  2023-02-13 cut -f 4-7 watermelon.gff
+30881  2023-02-13 cut -f 3-6 watermelon.gff
+30882  2023-02-13 cut -f 3-6 watermelon.gff | grep intron
+30883  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort | kg4r
+30884  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort - kg4r
+30885  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort -kg4r
+30886  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort -k4gr
+30887  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort -k4gr | cut -f 2-4
+30888  2023-02-13 ls -al
+30889  2023-02-13 l watermelon.gff
+30890  2023-02-13 ls -al
+30891  2023-02-13 l watermelon.gff
+30892  2023-02-13 cut -f 3-7 watermelon.gff
+30893  2023-02-13 cut -f 3-8 watermelon.gff
+30894  2023-02-13 cut -f 3-0 watermelon.gff
+30895  2023-02-13 cut -f 3-9 watermelon.gff
+30896  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA
+30897  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA | grep -v '+'
+30898  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA | grep -v '+' | cut -f 2,3,7
+30899  2023-02-13 ls -al
+30900  2023-02-13 cd aa
+30901  2023-02-13 ls -al
+30902  2023-02-13 ls -al
+30903  2023-02-13 ls -al | less -S
+30904  2023-02-13 history
+30905  2023-02-13 history | grep pwd
+30906  2023-02-13 history | grep pwd | wc -l
+30907  2023-02-13 history | grep pwd | lc
+30908  2023-02-13 cd Desktop/watermelon
+30909  2023-02-13 cd Desktop/watermelon_files
+30910  2023-02-13 ls -al
+30911  2023-02-13 cut -f 3 watermelon.gff
+30912  2023-02-13 cut -f 3 watermelon.gff | sort | uniq -c
+30913  2023-02-13 ls -al
+30914  2023-02-13 cat watermelon.gff
+30915  2023-02-13 cut -f 4-7 watermelon.gff
+30916  2023-02-13 cut -f 3-6 watermelon.gff
+30917  2023-02-13 cut -f 3-6 watermelon.gff | grep intron
+30918  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort | kg4r
+30919  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort - kg4r
+30920  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort -kg4r
+30921  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort -k4gr
+30922  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort -k4gr | cut -f 2-4
+30923  2023-02-13 ls -al
+30924  2023-02-13 l watermelon.gff
+30925  2023-02-13 ls -al
+30926  2023-02-13 l watermelon.gff
+30927  2023-02-13 cut -f 3-7 watermelon.gff
+30928  2023-02-13 cut -f 3-8 watermelon.gff
+30929  2023-02-13 cut -f 3-0 watermelon.gff
+30930  2023-02-13 cut -f 3-9 watermelon.gff
+30931  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA
+30932  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA | grep -v '+'
+30933  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA | grep -v '+' | cut -f 2,3,7
+30934  2023-02-13 ls -al
+30935  2023-02-13 cd aa
+30936  2023-02-13 ls -al
+30937  2023-02-13 ls -al
+30938  2023-02-13 ls -al | less -S
+30939  2023-02-13 history
+30940  2023-02-13 history | grep pwd
+30941  2023-02-13 history | grep pwd | wc -l
+30942  2023-02-13 history | grep pwd | lc
+30943  2023-02-13 cd ../nt/
+30944  2023-02-13 cat *fasta
+30945  2023-02-13 cat *fasta | grep GAATTC
+30946  2023-02-13 cat *fasta | grep -B 1GAATTC
+30947  2023-02-13 cat *fasta | grep -B 1 GAATTC
+30948  2023-02-13 cat *fasta | grep -B 1 GAATTC | less -S
+30949  2023-02-13 cat *fasta | grep -B 1 GAATTC | grep -v '--'
+30950  2023-02-13 cat *fasta | grep -B 1 GAATTC
+30951  2023-02-13 cat *fasta | grep -B 1 GAATTC | grep '--'
+30952  2023-02-13 cat *fasta | grep -B 1 GAATTC
+30953  2023-02-13 cat *fasta | grep -B 1 GAATTC > z
+30954  2023-02-13 cat z
+30955  2023-02-13 ls -al
+30956  2023-02-13 up
+30957  2023-02-13 'c
+30958  2023-02-13 ls -al
+30959  2023-02-13 column -t watermelon.gff | less -S
+30960  2023-02-13 cut -f 4 watermelon.gff
+30961  2023-02-13 column -t watermelon.gff | less -S
+30962  2023-02-13 cut -f 4-5 watermelon.gff
+30963  2023-02-13 cut -f 4-5 watermelon.gff | less
+30964  2023-02-13 cut -f 4-5,9 watermelon.gff
+30965  2023-02-13 less -S watermelon.gff
+30966  2023-02-13 cut -f 3 watermelon.gff
+30967  2023-02-13 cut -f 3 watermelon.gff | sort
+30968  2023-02-13 cut -f 3 watermelon.gff | sort | uniq
+30969  2023-02-13 cut -f 3 watermelon.gff | sort | uniq -c
+30970  2023-02-13 cut -f 4-6 watermelon.gff
+30971  2023-02-13 cut -f 3-6 watermelon.gff 
+30972  2023-02-13 cut -f 3-6 watermelon.gff | grep intron
+30973  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort -k4gr
+30974  2023-02-13 cut -f 3-6 watermelon.gff | grep intron | sort -k4gr | cut -f 2-4
+30975  2023-02-13 cut -f 3-9 watermelon.gff
+30976  2023-02-13 cut -f 3-9 watermelon.gff | less -S
+30977  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA
+30978  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA | grep -
+30979  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA | grep '-'
+30980  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA | grep -v '+'
+30981  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA | grep -v '+' | wc -l
+30982  2023-02-13 cut -f 3-9 watermelon.gff | grep tRNA | grep -v '+' | cut -f 2-3,7
+30983  2023-02-13 clear;ls -al;echo rhianna
+30984  2023-02-13 clear;ls -al;echo rihanna
+30985  2023-02-13 chmod go+w cat.err 
+30986  2023-02-13 ls -al
+30987  2023-02-13 touch my-first-bash-script.sh
+30988  2023-02-13 nano my-first-bash-script.sh 
+30989  2023-02-13 ls -al
+30990  2023-02-13 ls -al my-first-bash-script.sh 
+30991  2023-02-13 chmod u+x my-first-bash-script.sh 
+30992  2023-02-13 ls -al my-first-bash-script.sh 
+30993  2023-02-13 ./my-first-bash-script.sh 
+30994  2023-02-13 cat my-first-bash-script.sh 
+30995  2023-02-13 bash my-first-bash-script.sh 
+30996  2023-02-13 ls -al
+30997  2023-02-13 nano my-first-bash-script.sh 
+30998  2023-02-13 ./my-first-bash-script.sh 
+30999  2023-02-13 nano my-first-bash-script.sh 
+31000  2023-02-13 ./my-first-bash-script.sh 
+31001  2023-02-13 exi5t
+31002  2023-02-13 exit
+31004  2023-02-13 cd
+31005  2023-02-13 cd Desktop/example_files
+31006  2023-02-13 ls -al
+31007  2023-02-13 cat fruit.txt 
+31008  2023-02-13 cat letters.txt 
+31009  2023-02-13 uniq -c letters.txt 
+31010  2023-02-13 sort letters.txt -uniq -c
+31011  2023-02-13 sor
+31012  2023-02-13 ls -al
+31013  2023-02-13 sort letters.txt | uniq -c
+31014  2023-02-13 sort letters.txt
+31015  2023-02-13 man cut
+31016  2023-02-13 ls -al
+31017  2023-02-13 grep 'Toolik' shaver_etal.csv
+31018  2023-02-13 grep 'Toolik Lake' shaver_etal.csv
+31019  2023-02-13 grep 'Toolik Lake' shaver_etal.csv | grep '2003'
+31020  2023-02-13 grep 'Toolik Lake' shaver_etal.csv | grep '2003' | wc -l
+31021  2023-02-13 grep 'Toolik Lake' shaver_etal.csv | grep -c '2003'
+31022  2023-02-13 grep 'Toolik Lake' shaver_etal.csv
+31023  2023-02-13 grep 'Toolik Lake' shaver_etal.csv | less -S
+31024  2023-02-13 cat letters.txt 
+31025  2023-02-13 uniq letters.txt 
+31026  2023-02-13 sort letters.txt 
+31027  2023-02-13 sort letters.txt | uniq
+31028  2023-02-13 exit
+31029  2023-02-13 history | grep '2023-02-13' > ~/Drive/teaching/BIOL5153_PROGRAMMING/2023S/histories/2023-02-13.txt 

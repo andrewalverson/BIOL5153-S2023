@@ -1,0 +1,63 @@
+32382  2023-04-17 git status
+32383  2023-04-17 open parseGFF.py 
+32384  2023-04-17 ls -al
+32385  2023-04-17 ./parseGFF.py 
+32386  2023-04-17 ./parseGFF.py covid.gff3 covid.fasta 
+32387  2023-04-17 ./parseGFF.py covid.gff3 covid.fasta > /dev/null
+32388  2023-04-17 ./parseGFF.py covid.gff3 covid.fasta
+32389  2023-04-17 cat covid.fasta 
+32390  2023-04-17 ./parseGFF.py covid.gff3 covid.fasta
+32391  2023-04-17 head covid.fasta 
+32392  2023-04-17 ./parseGFF.py covid.gff3 covid.fasta | less -S
+32393  2023-04-17 ./parseGFF.py covid.gff3 covid.fasta
+32394  2023-04-17 l covid.gff3 
+32395  2023-04-17 l covid.fasta 
+32396  2023-04-17 l covid.gff3 
+32397  2023-04-17 column -t covid.gff3 
+32398  2023-04-17 l covid.gff3 
+32399  2023-04-17 column -t covid.gff3 
+32400  2023-04-17 column -t covid.gff3 | l
+32401  2023-04-17 ./parseGFF.py covid.gff3 covid.fasta | l
+32402  2023-04-17 column -t covid.gff3 | l
+32403  2023-04-17 l covid.fasta 
+32404  2023-04-17 ./parseGFF.py covid.gff3 covid.fasta | l
+32405  2023-04-17 ./parseGFF.py covid.gff3 covid.fasta
+32406  2023-04-17 ls -al
+32407  2023-04-17 up
+32408  2023-04-17 ls -al
+32409  2023-04-17 bk
+32410  2023-04-17 ls -al
+32411  2023-04-17 up
+32412  2023-04-17 ls -al
+32413  2023-04-17 git status
+32414  2023-04-17 nano .gitignore 
+32415  2023-04-17 git add .gitignore 
+32416  2023-04-17 git commit -m 'ignore the notes directory'
+32417  2023-04-17 git status
+32418  2023-04-17 git add python-scripts-completed-in-class/parseGFF.py 
+32419  2023-04-17 git commit -m 'using SeqIO to parse the FASTA file; print FASTA for each feature in the GFF file'
+32420  2023-04-17 git push -u origin main
+32421  2023-04-17 git status
+32422  2023-04-17 ls -al
+32423  2023-04-17 nano README.md 
+32424  2023-04-17 ls -al
+32425  2023-04-17 git status
+32426  2023-04-17 git add README.md 
+32427  2023-04-17 git commit -m 'update README'
+32428  2023-04-17 git push -u origin main
+32429  2023-04-17 ls -al
+32430  2023-04-17 git status
+32431  2023-04-17 ls -al
+32432  2023-04-17 mkdir histories
+32433  2023-04-17 ls -al
+32434  2023-04-17 git status
+32435  2023-04-17 mv ../histories/2023-0* histories/
+32436  2023-04-17 git status
+32437  2023-04-17 ls -al
+32438  2023-04-17 cd histories/
+32439  2023-04-17 ls -al
+32440  2023-04-17 history
+32441  2023-04-17 history | grep 2023-04-17
+32442  2023-04-17 ls -al
+32443  2023-04-17 history | grep 2023-04-17
+32444  2023-04-17 history | grep 2023-04-17 > 2023-04-17.txt

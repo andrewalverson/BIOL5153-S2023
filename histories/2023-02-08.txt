@@ -1,0 +1,126 @@
+30434  2023-02-08 open .
+30435  2023-02-08 cd
+30436  2023-02-08 cd Desktop/watermelon_files
+30437  2023-02-08 ls -al
+30438  2023-02-08 ls -al aa
+30439  2023-02-08 ls -al
+30440  2023-02-08 cat aa/atp* nt/atp*
+30441  2023-02-08 ls -al
+30442  2023-02-08 echo $HOME
+30443  2023-02-08 cat aa/atp* nt/atp* > /Users/aja/atp.fa
+30444  2023-02-08 cat aa/atp* nt/atp* > $HOME/atp.fa
+30445  2023-02-08 cat aa/atp* nt/atp* > ~/atp.fa
+30446  2023-02-08 c 
+30447  2023-02-08 ln -s myDiary.txt PRIVATE-NO-READ.TXT
+30448  2023-02-08 C
+30449  2023-02-08 ls -al
+30450  2023-02-08 cat PRIVATE-NO-READ.TXT 
+30451  2023-02-08 ls -al
+30452  2023-02-08 rm PRIVATE-NO-READ.TXT 
+30453  2023-02-08 ls -al
+30454  2023-02-08 wc letters.txt 
+30455  2023-02-08 wc -l letters.txt 
+30456  2023-02-08 wc watermelon.fsa 
+30457  2023-02-08 cd ../example_files/
+30458  2023-02-08 ls -al
+30459  2023-02-08 cat fruit.txt 
+30460  2023-02-08 wc -l fruit.txt 
+30461  2023-02-08 sort fruit.txt 
+30462  2023-02-08 sort -k2 fruit.txt 
+30463  2023-02-08 sort -k2r fruit.txt 
+30464  2023-02-08 cd ../watermelon_files/
+30465  2023-02-08 ls -al
+30466  2023-02-08 l watermelon.gff
+30467  2023-02-08 sort -k7 watermelon.gff
+30468  2023-02-08 sort -k7g watermelon.gff
+30469  2023-02-08 sort -k7gr watermelon.gff
+30470  2023-02-08 sort -k7g watermelon.gff
+30471  2023-02-08 ls -al
+30472  2023-02-08 cd ../example_files/
+30473  2023-02-08 ls -al
+30474  2023-02-08 cat fruit.txt 
+30475  2023-02-08  column -t fruit.txt 
+30476  2023-02-08 ls -al
+30477  2023-02-08 cat fruit.txt 
+30478  2023-02-08 grep pear fruit.txt 
+30479  2023-02-08 grep ar fruit.txt 
+30480  2023-02-08 grep MI fruit.txt 
+30481  2023-02-08 grep mi fruit.txt 
+30482  2023-02-08 man grep
+30483  2023-02-08 grep -i mi fruit.txt 
+30484  2023-02-08 cd ../watermelon
+30485  2023-02-08 c 
+30486  2023-02-08 cd ../watermelon_files/
+30487  2023-02-08 ls -al
+30488  2023-02-08 grep rps watermelon.gff
+30489  2023-02-08 grep rps watermelon.gff > rps_genes.gff
+30490  2023-02-08 less -SN rps_genes.gff 
+30491  2023-02-08 grep -c rps watermelon.gff
+30492  2023-02-08 grep -vc rps watermelon.gff
+30493  2023-02-08 grep -c intron watermelon.gff
+30494  2023-02-08 grep -c cox watermelon.gff
+30495  2023-02-08 ls -al
+30496  2023-02-08 cd aa
+30497  2023-02-08 ls -al
+30498  2023-02-08 grep sdh *.fasta
+30499  2023-02-08 grep -l sdh *.fasta
+30500  2023-02-08 cd ../../example_files/
+30501  2023-02-08 ls -al
+30502  2023-02-08 less -S shaver_etal.csv 
+30503  2023-02-08 wc -l shaver_etal.csv 
+30504  2023-02-08 less -S shaver_etal.csv 
+30505  2023-02-08 grep Toolik shaver_etal.csv 
+30506  2023-02-08 grep Toolik Lake shaver_etal.csv 
+30507  2023-02-08 grep 'Toolik Lake' shaver_etal.csv 
+30508  2023-02-08 grep Toolik\rLake shaver_etal.csv 
+30509  2023-02-08 grep 'Toolik Lake' shaver_etal.csv > toolik-lake.dat
+30510  2023-02-08 grep Aug toolik-lake.dat 
+30511  2023-02-08 ls -al
+30512  2023-02-08 wc -l toolik-lake.dat 
+30513  2023-02-08 grep -c Aug toolik-lake.dat 
+30514  2023-02-08 grep -cv Aug toolik-lake.dat 
+30515  2023-02-08 grep -v 'Toolik Lake' shaver_etal.csv > not-toolik-lake.dat
+30516  2023-02-08 wc -l not-toolik-lake.dat 
+30517  2023-02-08 grep 'Toolik Lake' shaver_etal.csv
+30518  2023-02-08 grep 'Toolik Lake' shaver_etal.csv > toolik-lake.dat
+30519  2023-02-08 grep Jun shaver_etal.csv 
+30520  2023-02-08 ls -al
+30521  2023-02-08 grep 'Toolik Lake' shaver_etal.csv > /tmp/toolik-lake.dat
+30522  2023-02-08 cd ../watermelon
+30523  2023-02-08 cd ../watermelon_files/
+30524  2023-02-08 ls -al
+30525  2023-02-08 cd nt/
+30526  2023-02-08 ls -al
+30527  2023-02-08 l cox1
+30528  2023-02-08 l cox1.fasta 
+30529  2023-02-08 l cox2.fasta 
+30530  2023-02-08 ls -al
+30531  2023-02-08 up
+30532  2023-02-08 ls -al
+30533  2023-02-08 cat nt/*.fasta > genes.fa
+30534  2023-02-08 grep -c > genes.fa 
+30535  2023-02-08 less -S genes.fa 
+30536  2023-02-08 cat nt/*.fasta > genes.fa
+30537  2023-02-08 less -S genes.fa 
+30538  2023-02-08 grep -c > genes.fa 
+30539  2023-02-08 less -S genes.fa 
+30540  2023-02-08 cat nt/*.fasta > genes.fa
+30541  2023-02-08 grep -c '>' genes.fa 
+30542  2023-02-08 exit
+30649  2023-02-08 ln -s 99cov_99percID_for_putative_mt_contaminants/ FINAL_PUBLISHED_ANALYSIS
+30651  2023-02-08 ls -al
+30652  2023-02-08 open .
+30653  2023-02-08 rm FINAL_PUBLISHED_ANALYSIS
+30654  2023-02-08 ls -al
+30655  2023-02-08 exit
+30656  2023-02-08 cd Desktop/
+30657  2023-02-08 ls -al
+30658  2023-02-08 ln -s ~/Desktop/watermelon_files/watermelon.gff
+30659  2023-02-08 less -S 
+30660  2023-02-08 ln -s ~/Desktop/watermelon_files/nt gene_seqs
+30661  2023-02-08 ls -al
+30662  2023-02-08 cd gene_seqs
+30663  2023-02-08 ls -al
+30664  2023-02-08 exit
+30665  2023-02-08 cd /Users/aja/Drive/teaching/BIOL5153_PROGRAMMING/2023S/histories/
+30666  2023-02-08 history | grep '2023-02-08' > ~/Drive/teaching/BIOL5153_PROGRAMMING/2023S/histories/2023-02-08.txt 
